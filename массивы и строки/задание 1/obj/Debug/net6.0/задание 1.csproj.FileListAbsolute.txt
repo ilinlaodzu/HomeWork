@@ -1,0 +1,15 @@
+C:\Users\Lina\Desktop\repo\HomeWork\массивы и строки\задание 1\obj\Debug\net6.0\задание 1.csproj.AssemblyReference.cache
+C:\Users\Lina\Desktop\repo\HomeWork\массивы и строки\задание 1\obj\Debug\net6.0\задание 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lina\Desktop\repo\HomeWork\массивы и строки\задание 1\obj\Debug\net6.0\задание 1.AssemblyInfoInputs.cache
+C:\Users\Lina\Desktop\repo\HomeWork\массивы и строки\задание 1\obj\Debug\net6.0\задание 1.AssemblyInfo.cs
+C:\Users\Lina\Desktop\repo\HomeWork\массивы и строки\задание 1\obj\Debug\net6.0\задание 1.csproj.CoreCompileInputs.cache
+C:\Users\Lina\Desktop\repo\HomeWork\массивы и строки\задание 1\bin\Debug\net6.0\задание 1.exe
+C:\Users\Lina\Desktop\repo\HomeWork\массивы и строки\задание 1\bin\Debug\net6.0\задание 1.deps.json
+C:\Users\Lina\Desktop\repo\HomeWork\массивы и строки\задание 1\bin\Debug\net6.0\задание 1.runtimeconfig.json
+C:\Users\Lina\Desktop\repo\HomeWork\массивы и строки\задание 1\bin\Debug\net6.0\задание 1.dll
+C:\Users\Lina\Desktop\repo\HomeWork\массивы и строки\задание 1\bin\Debug\net6.0\задание 1.pdb
+C:\Users\Lina\Desktop\repo\HomeWork\массивы и строки\задание 1\obj\Debug\net6.0\задание 1.dll
+C:\Users\Lina\Desktop\repo\HomeWork\массивы и строки\задание 1\obj\Debug\net6.0\refint\задание 1.dll
+C:\Users\Lina\Desktop\repo\HomeWork\массивы и строки\задание 1\obj\Debug\net6.0\задание 1.pdb
+C:\Users\Lina\Desktop\repo\HomeWork\массивы и строки\задание 1\obj\Debug\net6.0\задание 1.genruntimeconfig.cache
+C:\Users\Lina\Desktop\repo\HomeWork\массивы и строки\задание 1\obj\Debug\net6.0\ref\задание 1.dll
