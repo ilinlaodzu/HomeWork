@@ -9,4 +9,6 @@ for ( int i=0; i<chars.Length; i++)
 System.Console.WriteLine (str);
 
 
+
+
 //string str = new string (chars);

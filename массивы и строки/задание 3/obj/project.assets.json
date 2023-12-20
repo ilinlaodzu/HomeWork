@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lina\\Desktop\\repo\\HomeWork\\массивы и строки\\задание 2\\задание 2.csproj",
-      "projectName": "задание 2",
-      "projectPath": "C:\\Users\\Lina\\Desktop\\repo\\HomeWork\\массивы и строки\\задание 2\\задание 2.csproj",
+      "projectUniqueName": "C:\\Users\\Lina\\Desktop\\repo\\HomeWork\\массивы и строки\\задание 3\\задание 3.csproj",
+      "projectName": "задание 3",
+      "projectPath": "C:\\Users\\Lina\\Desktop\\repo\\HomeWork\\массивы и строки\\задание 3\\задание 3.csproj",
       "packagesPath": "C:\\Users\\Lina\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lina\\Desktop\\repo\\HomeWork\\массивы и строки\\задание 2\\obj\\",
+      "outputPath": "C:\\Users\\Lina\\Desktop\\repo\\HomeWork\\массивы и строки\\задание 3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lina\\AppData\\Roaming\\NuGet\\NuGet.Config"
